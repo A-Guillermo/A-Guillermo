@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hola a todos 👋
 
+Bienvenido a mi perfil de git hub tengo 17 y soy estudiante de sistemas microiformaticos y redes
 <!--
 **A-Guillermo/A-Guillermo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
